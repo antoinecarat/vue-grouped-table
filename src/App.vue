@@ -24,7 +24,7 @@
 </template>
 
 <script>
-import GroupedTable from "./components/GroupedTable.vue";
+import GroupedTable from "@acarat/vue-grouped-table";
 
 export default {
   name: "app",
